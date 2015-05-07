@@ -1,0 +1,63 @@
+Imprimir Introducción.
+establecer contadorOK = 0 , contadorINC = 0 y elección temática como números enteros.
+
+Hacer:
+  
+  Imprimir opciones de temática (cine, música y geografía).
+  Imprimir contador de preguntas correctas y preguntas incorrectas.
+  Pedir elección temática.
+
+Si elección temática es cine, entonces 
+ 	
+ 	Imprimir pregunta 1 cine. Establecer var respuesta 1 cine como caracter. Pedir respuesta 1 cine. 
+ 	Si respuesta 1 cine es correcta, imprimir “Correcto” y sumar +1 a contadorOK.
+ 	Sino imprimir “Incorrecto” y sumar +1 a contadorINC.
+ 	
+ 	Imprimir pregunta 2 cine. Establecer var respuesta 2 cine como caracter. Pedir respuesta 2 cine.
+ 	Si respuesta 2 cine es correcta, imprimir “Correcto” y sumar +1 a contadorOK
+ 	Sino imprimir “Incorrecto” y sumar +1 a contadorINC.
+
+	Imprimir pregunta 3 cine. Establecer var respuesta 3 cine como caracter. Pedir respuesta 3 cine. 
+ 	Si respuesta 3 cine es correcta, imprimir “Correcto” y sumar +1 a contadorOK.
+ 	Sino imprimir “Incorrecto” y sumar +1 a contadorINC.
+ 	
+Si elección temática es Música, entonces
+
+	Imprimir pregunta 1 música. Establecer var respuesta 1 música como caracter. Pedir respuesta 1 música.
+ 	Si respuesta 1 música es correcta, imprimir “Correcto” y sumar +1 a contadorOK.
+ 	Sino imprimir “Incorrecto” y sumar +1 a contadorINC.
+
+	Imprimir pregunta 2 música. Establecer var respuesta 2 música como caracter. Pedir respuesta 2 música.
+ 	Si respuesta 2 música es correcta, imprimir “Correcto” y sumar +1 a contadorOK.
+ 	Sino imprimir “Incorrecto” y sumar +1 a contadorINC.
+ 	
+	Imprimir pregunta 3 música. Establecer var respuesta 3 música como caracter. Pedir respuesta 3 música.
+ 	Si respuesta 3 música es correcta, imprimir “Correcto” y sumar +1 a contadorOK.
+ 	Sino imprimir “Incorrecto” y sumar +1 a contadorINC.
+ 	
+Si elección temática es Geografía entonces
+
+	Imprimir pregunta 1 geografía. Establecer var respuesta 1 geografía como caracter. Pedir respuesta 1 geografía.
+	Si respuesta 1 geografía es correcta, imprimir “Correcto” y sumar +1 a contadorOK.
+	Sino imprimir “Incorrecto” y sumar +1 a contadorINC.
+	
+	Imprimir pregunta 2 geografía. Establecer var respuesta 2 geografía como caracter. Pedir respuesta 2 geografía.
+	Si respuesta 2 geografía es correcta, imprimir “Correcto” y sumar +1 a contadorOK.
+	Sino imprimir “Incorrecto” y sumar +1 a contadorINC.
+
+	Imprimir pregunta 3 geografía. Establecer var respuesta 3 geografía como caracter. Pedir respuesta 3 geografía.
+	Si respuesta 3 geografía es correcta, imprimir “Correcto” y sumar +1 a contadorOK.
+	Sino imprimir “Incorrecto” y sumar +1 a contadorINC.
+	
+Si elección temática es salir entonces
+
+	Aplicación se cierra.
+	
+Hacer mientras el usuario elija opción cine, música o geografía. 
+
+
+
+
+ 
+
+
